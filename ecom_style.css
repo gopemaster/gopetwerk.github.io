@@ -38,7 +38,7 @@ html{
 .mask{
     mask: url("desert-svg.svg");
     mask-size: cover;
-    -webkit-mask: url("desert-svg.svg");
+    -webkit-mask: url("gopetwerk.github.io-master_desert-svg.svg");
     -webkit-mask-size: cover;
     width: 100%;
     height: 100%;
